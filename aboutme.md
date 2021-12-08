@@ -1,0 +1,3 @@
+- 👋 Hi, I’m sanity
+- 👀 I’m interested in learn some basics scripts languages.
+- 🌱 I’m currently learning lua.
